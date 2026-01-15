@@ -1,15 +1,10 @@
 <template>
-  <h1>{{ message }}</h1>
+  <h1>Food</h1>
+  <food-item/>
+  <food-item/>
+  <food-item/>
 </template>
 
-<script>
-export default {
-  data() {
-    return {
-      message: 'Hello Philippines! Greetings from New York, Cubao! '
-    };
-  }
-};
-</script>
+<script></script>
 
 <style></style>
