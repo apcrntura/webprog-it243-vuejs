@@ -6,7 +6,7 @@
 export default {
   data() {
     return {
-      message: 'Hello WEBPROG IT2 foUr threeee! BANGGGGGGGGG!! '
+      message: 'Hello Philippines! Greetings from New York, Cubao! '
     };
   }
 };
