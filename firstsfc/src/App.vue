@@ -6,7 +6,7 @@
 export default {
   data() {
     return {
-      message: 'Hello Philippines! Greetings From Japan, Nueva Ecija!'
+      message: 'Hello Philippines! Greetings from New York, Cubao! '
     };
   }
 };
