@@ -16,6 +16,6 @@ onMounted(() => {
  
 <template>
   <ul>
-    <li v-for="instrument in instruments" :key="instrument.id">{{ instrument.name }}</li>
+    <li v-for="instrument in instruments" :key="instrument.id">{{ instruments.name }}</li>
   </ul>
 </template>
